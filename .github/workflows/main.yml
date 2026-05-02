@@ -1,0 +1,8 @@
+agent_name:
+        description: 'Sleapyash'
+        required: true
+        default: 'Sleapyash'
+      agent_description:
+        description: 'asc'
+        required: true
+        default: 'Sleapyash AI Agent'
