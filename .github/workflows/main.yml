@@ -1,4 +1,4 @@
-agent_name:
+agent_name: Sleapyash
         description: 'Sleapyash'
         required: true
         default: 'Sleapyash'
